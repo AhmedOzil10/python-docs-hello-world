@@ -3,4 +3,4 @@ app = Flask(__name__)
 
 @app.route("/")
 def hello():
-    return "Hello, World!"
+    return "POC by Ahmed Ismail (<a href=https://bugcrowd.com/AhmedOzil10>https://bugcrowd.com/AhmedOzil10</a>)"
